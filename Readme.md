@@ -13,7 +13,4 @@ Clone the repository and install the dependencies
 
 ## Watch the Demo
 
-<video width="600" controls>
-  <source src="assets/demo.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
+<iframe src="https://player.vimeo.com/video/1014809496" width="640" height="360" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
