@@ -11,6 +11,8 @@ This project serves as the root configuration for the microfrontend architecture
 ### Installation
 Clone the repository and install the dependencies
 
+## Watch the Demo
+
 <video width="600" controls>
   <source src="assets/demo.mp4" type="video/mp4">
   Your browser does not support the video tag.
